@@ -1,0 +1,20 @@
+body{
+    padding: 50px;
+}
+#inp1, #inp2{
+    margin: 25px;
+    font-size: medium;
+}
+#con, #email, #zip {
+    margin: 25px;
+    margin-left: 35px;
+    font-size: medium;
+    /* padding-left: 5px; */
+}
+#but{
+    margin: 25px;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: medium;
+}
